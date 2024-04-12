@@ -1,1 +1,22 @@
-[ ]
+[
+  {
+    "name": "Kick(A3)",
+    "pitch": "A3",
+    "pattern": "1000100010001000"
+  },
+  {
+    "name": "Snare(B3)",
+    "pitch": "B3",
+    "pattern": "0000100000001000"
+  },
+  {
+    "name": "Hi_Hat_Closed(F4)",
+    "pitch": "F4",
+    "pattern": "1000100010001000"
+  },
+  {
+    "name": "White_Noise(D4)",
+    "pitch": "D4",
+    "pattern": "0010001000100010"
+  }
+]
