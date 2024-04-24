@@ -1,1 +1,26 @@
-[ ]
+[
+  {
+    "name": "old_analog_phone_dailing ",
+    "file": "samples/112455__wolfnilson__old_analog_phone_dailing.mp3",
+    "bpm": "127",
+    "loop": "1m"
+  },
+  {
+    "name": "Vinyl_Record,_On_Off,_C",
+    "file": "samples/427933__inspectorj__vinyl-record-on-off-c.mp3",
+    "bpm": "98",
+    "loop": "1m"
+  },
+  {
+    "name": "Victor_Victrola_starting_to_play_a_record_1",
+    "file": "samples/350325__thaighaudio__071416-victor-victrola-starting-to-play-a-record-1.mp3",
+    "bpm": "126",
+    "loop": "1m"
+  },
+  {
+    "name": "Play_+_Stop_doucement_01",
+    "file": "samples/627827__francoistjp__play-stop-doucement-01.mp3",
+    "bpm": "85",
+    "loop": "1m"
+  }
+]
